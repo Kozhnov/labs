@@ -6,5 +6,5 @@ def load_data(file_path):
     return df
 
 # Пример использования
-file_path = "/Users/dsshmelev/mlops_practice_13/lab2/train.csv"
+file_path = "/Users/pkozhnov/labs/lab2/train.csv"
 data = load_data(file_path)
